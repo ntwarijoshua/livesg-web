@@ -23,7 +23,7 @@
         "jquery": "^3.2",
         "jquery.easing": "^1.4.1",
         "laravel-mix": "^4.0.7",
-        "lodash": "^4.17.13",
+        "lodash": "^4.17.21",
         "net": "^1.0.2",
         "popper": "^1.0.1",
         "popper.js": "^1.12",
